@@ -1,3 +1,6 @@
+# reference file; this is what bot.me should turn into after the Boner++ interpreter is done with it
+# see the repo Boner++ for more information
+
 import discord
 import asyncio
 import logging
